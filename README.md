@@ -6,9 +6,13 @@ The Invoice Extractor is a tool designed to automate the extraction of key infor
 
 ### Features
 Automated Extraction: Automatically extracts key information from invoices with high accuracy.
+
 Customizable: Allows customization for specific invoice templates and fields.
+
 Integration Ready: Easily integrates with other systems via APIs.
+
 User-Friendly Interface: Simple and intuitive interface for ease of use.
+
 
 ### Requirements
 Python 3.9 or later
