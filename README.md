@@ -16,7 +16,9 @@ User-Friendly Interface: Simple and intuitive interface for ease of use.
 
 ### Requirements
 Python 3.9 or later
+
 Gemini SDK
+
 Dependencies listed in requirements.txt
 
 ### The Following Images describe the output of the project Invoice Extractor Using Gemini_Pro
